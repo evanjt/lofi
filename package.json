@@ -45,7 +45,6 @@
     }
   },
   "dependencies": {
-    "custom-electron-titlebar": "^3.2.5",
     "electron-aspect-ratio-browser-window": "^1.0.2",
     "electron-squirrel-startup": "^1.0.0"
   },
